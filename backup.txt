@@ -1,0 +1,37 @@
+## FACK CHECKER AGENT ##
+https://fact-checker.line.me/
+https://www.mygopen.com/
+https://tfc-taiwan.org.tw/
+https://www.rumtoast.com/
+
+## RAG tutor
+https://python.langchain.com/v0.2/docs/tutorials/rag/
+
+CRAG:
+https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_crag_local.ipynb
+
+web search
+TavilySearchResults
+
+## Pinecone
+document: 
+https://python.langchain.com/v0.2/api_reference/pinecone/vectorstores/langchain_pinecone.vectorstores.PineconeVectorStore.html
+
+## voyage-multilingual-2 (embedding model)
+blog: 
+https://ihower.tw/blog/archives/12167
+
+document: 
+https://docs.voyageai.com/docs/api-key-and-installation
+
+sample code: 
+https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/v1/claude-3-agent.ipynb
+
+model performance:
+https://docs.google.com/spreadsheets/d/1zad1tMFp7OmNjUvm_a-Ni22av2uBmqYclVRgJQGUtl0/edit?gid=0#gid=0
+
+# OPENAI model
+https://platform.openai.com/docs/models
+
+### retrival method
+MMR algorithm
